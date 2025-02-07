@@ -1,2 +1,3 @@
 # Graide
-simplified assignment creation and grading
+
+Simplified assignment creation and grading
